@@ -35,9 +35,8 @@ To test classification, use the following command:
 ```
 python3 classify.py path/to/image.jpg
 ```
-
 ## Using webcam (demo)
-
+```
 To use webcam, use the following command:
 ```
 python3 classify_webcam.py
