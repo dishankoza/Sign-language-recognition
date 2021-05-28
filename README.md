@@ -30,13 +30,13 @@ python3 train.py \
   --output_graph=logs/trained_graph.pb \
   --output_labels=logs/trained_labels.txt \
   --image_dir=./dataset
-  
+```
 To test classification, use the following command:
 ```
 python3 classify.py path/to/image.jpg
 ```
-## Using webcam (demo)
-```
+## Using webcam
+
 To use webcam, use the following command:
 ```
 python3 classify_webcam.py
