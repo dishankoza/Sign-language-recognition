@@ -6,7 +6,7 @@ The framework used for the CNN implementation can be found here:
 
 [Simple transfer learning with an Inception V3 architecture model](https://github.com/xuetsing/image-classification-tensorflow) by xuetsing
 
-The project contains the dataset (1Go). If you are only interested in code, you better copy/paste the few files than cloning the entire project.
+If you are only interested in code, you better copy/paste the few files than cloning the entire project.
 
 You can [find the demo here](https://drive.google.com/file/d/1I_q5PdrdlQyiN-sj0xM9HUim-l-OF6D8/view?usp=sharing)
 
