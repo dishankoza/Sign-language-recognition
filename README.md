@@ -10,7 +10,7 @@ If you are only interested in code, you better copy/paste the few files than clo
 
 You can [find the demo here](https://drive.google.com/file/d/1I_q5PdrdlQyiN-sj0xM9HUim-l-OF6D8/view?usp=sharing)
 
-[![Demo](https://drive.google.com/file/d/1I_q5PdrdlQyiN-sj0xM9HUim-l-OF6D8/view?usp=sharing)
+[![Demo](https://drive.google.com/file/d/1I_q5PdrdlQyiN-sj0xM9HUim-l-OF6D8/view?usp=sharing)]
 
 ## Requirements
 
